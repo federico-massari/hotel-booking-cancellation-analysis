@@ -39,7 +39,7 @@ City Hotel bookings had a higher cancellation rate than Resort Hotel bookings (4
 
 **2. Cancellation rate varies by arrival month**
 
-June had the highest cancellation rate (41.46%), while January had the lowest (30.48%). August had the highest booking volume (13,877) with a cancellation rate of 37.75%, so higher volume did not coincide with the highest cancellation rate.
+June had the highest cancellation rate (41.46%), while January had the lowest (30.48%). August had the highest booking volume (13,877) with a cancellation rate of 37.75%. July and August include three years of arrivals, while the other months include two, so booking volumes are not directly comparable across months.
 
 **3. Cancellation rate increases consistently with lead time**
 
